@@ -1,4 +1,4 @@
-# 🔥 The Phoenix - AI-Powered Timetable Generator
+# 🔥 FlexiSched- AI-Powered Timetable Generator
 
 An intelligent timetable scheduling system that uses advanced constraint satisfaction algorithms to generate optimized academic timetables with zero conflicts and balanced teacher workloads.
 
