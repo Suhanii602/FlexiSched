@@ -51,8 +51,8 @@ The-Pheonix/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/The-Pheonix-main.git
-cd The-Pheonix-main
+git clone https://github.com/yourusername/FlexiSched.git
+cd FlexiSched
 ```
 
 ### 2. Backend Setup
@@ -244,9 +244,6 @@ Contributions are welcome! Please follow these steps:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👥 Authors
-
-- **Your Name** - *Initial work*
 
 ## 🙏 Acknowledgments
 
@@ -254,9 +251,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - UI components from shadcn/ui
 - Icons from Lucide React
 
-## 📞 Support
-
-For support, email sarvagyasharma660@example.com or open an issue on GitHub.
 
 ## 🗺️ Roadmap
 
@@ -271,4 +265,3 @@ For support, email sarvagyasharma660@example.com or open an issue on GitHub.
 
 ---
 
-Made with ❤️ by The Phoenix Team
